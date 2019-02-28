@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Strigidae-Ericka Arley-Daniela Madrigal-Joselyn Miranda"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre Ciccaba nigrolineata"
+      href: about.html

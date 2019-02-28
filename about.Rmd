@@ -1,0 +1,63 @@
+---
+title: "Ciccaba nigrolineata"
+---
+
+<p align="justify">
+Es la única lechiza en el país que tiene barreteado negro y blanco en las partes inferiores. 
+Es bastante común en zonas de tierras bajas y húmedas y raras de ver en bosques secos y elevaciones intermedias (aprox. 1500 m.s.n.m).
+Suelen cazar en bordes de bosque y jardines, a menudo cerca de los postes de luz.
+Esta especie duerme en los niveles bajos y medios de los árboles. 
+Garrigues, R. & Dean, R. (2017). Aves de Costa Rica. Guía de campo. A Zona Tropical Publications. Cornell University Press. 
+</p>
+\
+\
+<p align="center">
+![](imagenes/c_nigro2.jpg){width=150px} ![](imagenes/c_nigro1.jpg){width=150px} ![](imagenes/c_nigro3.jpg){width=150px}
+</p>
+\
+\
+\
+<p align="center">
+<font size=30>
+Mapa de distribución
+</font>
+</p>
+\
+\
+<p align="center">
+![](imagenes/map_c_n.jpg)
+</p>
+\
+\
+<p align="center">
+<font size=20>
+Espectrograma y métricas del canto de Ciccaba nigrolineata
+</font>
+</p>
+\
+\
+<p align="center">
+![](imagenes/espectogramacanto.jpg)
+</p>
+\
+\
+<p align="center">
+![](imagenes/canto.jpg)
+</p>
+\
+\
+<p align="center">
+<font size=20>
+Espectrograma y métricas de la llamada de Ciccaba nigrolineata
+</font>
+</p>
+\
+\
+<p align="center">
+![](imagenes/llamadamet.jpg)
+</p>
+\
+\
+<p align="center">
+![](imagenes/promllamada.jpg)
+</p>
